@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="logo">Organization</string>
+    <string name="hint_user_surname">Enter your Surname</string>
+    <string name="hint_user_name">Enter your Name</string>
+    <string name="hint_user_lastname">Enter your Last Name</string>
+    <string name="hint_phone">Enter your Phone</string>
+    <string name="hint_email">Enter your E-mail</string>
+    <string name="main_btn">Submit</string>
+    <string name="btn_add">Add</string>
+</resources>
